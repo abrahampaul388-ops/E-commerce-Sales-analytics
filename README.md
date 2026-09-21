@@ -111,5 +111,6 @@ This project demonstrates how raw e-commerce transaction data can be transformed
 The analysis identified key revenue drivers, customer retention patterns, product category performance, device usage, payment preferences, and customer experience indicators.
 
 The resulting dashboard provides a concise view of the business performance and supports data-driven decision-making.
+
 * Average Order Value: ₦1,277.44
 * Data period: January 2023 – March 2024
