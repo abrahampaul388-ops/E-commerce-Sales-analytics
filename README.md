@@ -114,3 +114,7 @@ The resulting dashboard provides a concise view of the business performance and 
 
 * Average Order Value: ₦1,277.44
 * Data period: January 2023 – March 2024
+
+* Markdown
+* ## Dashboard Preview
+* ![E-commerce Sales Dashboard](ecommerce-dashboard.png)
