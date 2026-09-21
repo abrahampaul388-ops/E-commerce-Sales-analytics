@@ -11,6 +11,19 @@ The goal is to transform raw transaction data into clear, actionable insights th
 Dataset at a Glance
 
 * 17,049 orders
+
+* Business Questions
+
+This analysis was designed to answer the following business questions:
+
+* What is the overall revenue and sales performance?
+* Which product categories generate the most revenue?
+* How important are returning customers to total revenue?
+* Which device types generate the most orders and revenue?
+* Which payment methods are most commonly used?
+* Which cities contribute the most revenue?
+* What is the average customer rating and delivery time?
+* How does sales performance change over time?
 * 5,000 customers
 * ₦21.78M total revenue
 * 51,341 units sold
