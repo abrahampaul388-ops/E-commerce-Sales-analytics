@@ -27,5 +27,12 @@ This analysis was designed to answer the following business questions:
 * 5,000 customers
 * ₦21.78M total revenue
 * 51,341 units sold
+
+* Tools & Technologies
+
+* MySQL — data preparation, cleaning, transformation, and SQL analysis
+* Power BI — interactive dashboard and data visualization
+* WPS Office — initial data inspection and validation
+* GitHub — project documentation and portfolio presentation
 * Average Order Value: ₦1,277.44
 * Data period: January 2023 – March 2024
