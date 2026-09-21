@@ -118,3 +118,15 @@ The resulting dashboard provides a concise view of the business performance and 
 * Markdown
 * ## Dashboard Preview
 * ![E-commerce Sales Dashboard](ecommerce-dashboard.png)
+
+* Project Structure
+
+ecommerce-sales-analytics/
+│
+├── README.md
+├── ecommerce_sales_analysis.sql
+└── ecommerce-dashboard.png
+
+* README.md — Project overview, methodology, insights, and recommendations
+* ecommerce_sales_analysis.sql — SQL analysis queries
+* ecommerce-dashboard.png — Power BI dashboard preview
